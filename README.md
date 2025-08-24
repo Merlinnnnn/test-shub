@@ -21,7 +21,7 @@ cd test-shub
 - **Task 1**: [https://test-shub.vercel.app/](https://test-shub.vercel.app/)
 - **Task 2**: [https://test-shub-hd3n.vercel.app/](https://test-shub-hd3n.vercel.app/)
 
-## 📁 Cấu trúc dự án
+## Cấu trúc dự án
 
 ```
 test-shub/
@@ -44,7 +44,7 @@ test-shub/
 └── README.md             # File này
 ```
 
-## 🎯 Chi tiết từng Task
+## Chi tiết từng Task
 
 ### Task 1: Gas Station Report Analyzer
 **Mục đích**: Phân tích báo cáo giao dịch trạm xăng từ file Excel
@@ -123,4 +123,5 @@ test-shub/
 - **Task 4**: [task4/task4.md](task4/task4.md)
 
 **Lưu ý**: Mỗi task có thể chạy độc lập. Xem file `.md` tương ứng trong từng thư mục task để biết thêm chi tiết.
+
 
